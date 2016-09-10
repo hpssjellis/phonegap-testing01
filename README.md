@@ -2,7 +2,7 @@
 
 
 
-View this page at rawgit.com 
+View this page at http://rawgit.com 
 
 Testing branch
 
